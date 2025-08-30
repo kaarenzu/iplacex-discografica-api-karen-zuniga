@@ -3,7 +3,6 @@ package org.iplacex.proyectos.discografia.discos;
 import java.util.List;
 import java.util.Optional;
 
-import org.iplacex.proyectos.discografia.artistas.Artista;
 import org.iplacex.proyectos.discografia.artistas.IArtistaRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
